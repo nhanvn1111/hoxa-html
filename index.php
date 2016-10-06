@@ -1,3 +1,3 @@
 <?php
 
-header('Location: layout1/index.html');
+header('Location: layout1/fullwidth/index.html');
